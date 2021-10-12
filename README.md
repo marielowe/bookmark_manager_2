@@ -24,6 +24,8 @@ I would like to view a list of bookmarks
 
 ![Bookmark Domain Model](Bookmark_Domain_Model.png)
 
+<br>
+
 As a very busy user
 So that I can save a website
 I would like to add the site's address and title to bookmark manager
