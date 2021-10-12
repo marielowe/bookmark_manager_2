@@ -58,3 +58,18 @@ rspec
 ```
 rubocop
 ```
+
+## Core challenges
+- [x] Creating User Stories
+- [x] Setting up a Web Project
+- [x] Viewing bookmarks
+- [x] Setting up a Database
+- [x] Creating your First Table
+- [x] Manipulating Table Data
+- [x] Interacting with Postgres from Ruby
+- [x] Upgrading your Toolset
+- [x] Setting up a Testing Environment
+- [ ] Creating bookmarks
+- [ ] Wrapping Database data in program objects
+- [ ] Securing Your App
+- [ ] Deleting bookmarks
