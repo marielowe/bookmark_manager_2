@@ -1,4 +1,6 @@
 ul, form {
+  position: relative;
+  z-index: 10;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -11,6 +13,7 @@ body {
   color:#fff;
 }
 svg {
+  z-index: -1;
   height: 140%;
   display: block;
   position: absolute;
@@ -96,3 +99,4 @@ svg {
     transform: translate(1450px, 320px);
  }
 }
+
